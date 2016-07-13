@@ -1,0 +1,318 @@
+City	State	Incorporation	Year	Population
+Phoenix 	Arizona	city	2010	1450267
+Phoenix 	Arizona	city	2011	1465848
+Phoenix 	Arizona	city	2012	1490625
+Phoenix 	Arizona	city	2013	1513408
+Phoenix 	Arizona	city	2014	1538411
+Phoenix 	Arizona	city	2015	1563025
+Tucson 	Arizona	city	2010	521648
+Tucson 	Arizona	city	2011	524974
+Tucson 	Arizona	city	2012	526510
+Tucson 	Arizona	city	2013	528119
+Tucson 	Arizona	city	2014	530454
+Tucson 	Arizona	city	2015	531641
+Fresno 	California	city	2011	501235
+Fresno 	California	city	2012	505806
+Fresno 	California	city	2013	509827
+Fresno 	California	city	2014	515444
+Fresno 	California	city	2015	520052
+Los Angeles 	California	city	2010	3796575
+Los Angeles 	California	city	2011	3828604
+Los Angeles 	California	city	2012	3864724
+Los Angeles 	California	city	2013	3902005
+Los Angeles 	California	city	2014	3936940
+Los Angeles 	California	city	2015	3971883
+San Diego 	California	city	2010	1306080
+San Diego 	California	city	2011	1321256
+San Diego 	California	city	2012	1340076
+San Diego 	California	city	2013	1360456
+San Diego 	California	city	2014	1382251
+San Diego 	California	city	2015	1394928
+San Francisco 	California	city	2010	805813
+San Francisco 	California	city	2011	816231
+San Francisco 	California	city	2012	829517
+San Francisco 	California	city	2013	840715
+San Francisco 	California	city	2014	852537
+San Francisco 	California	city	2015	864816
+San Jose 	California	city	2010	955399
+San Jose 	California	city	2011	971543
+San Jose 	California	city	2012	985401
+San Jose 	California	city	2013	1003828
+San Jose 	California	city	2014	1016597
+San Jose 	California	city	2015	1026908
+Denver 	Colorado	city	2010	603300
+Denver 	Colorado	city	2011	619374
+Denver 	Colorado	city	2012	633976
+Denver 	Colorado	city	2013	648411
+Denver 	Colorado	city	2014	663963
+Denver 	Colorado	city	2015	682545
+Washington 	District of Columbia	city	2010	605126
+Washington 	District of Columbia	city	2011	620472
+Washington 	District of Columbia	city	2012	635342
+Washington 	District of Columbia	city	2013	649540
+Washington 	District of Columbia	city	2014	659836
+Washington 	District of Columbia	city	2015	672228
+Jacksonville 	Florida	city	2010	823280
+Jacksonville 	Florida	city	2011	829696
+Jacksonville 	Florida	city	2012	837790
+Jacksonville 	Florida	city	2013	844246
+Jacksonville 	Florida	city	2014	854962
+Jacksonville 	Florida	city	2015	868031
+Chicago 	Illinois	city	2010	2697650
+Chicago 	Illinois	city	2011	2705909
+Chicago 	Illinois	city	2012	2715521
+Chicago 	Illinois	city	2013	2722236
+Chicago 	Illinois	city	2014	2723436
+Chicago 	Illinois	city	2015	2720546
+Chicago 	Illinois	city (pt.)	2010	2697650
+Chicago 	Illinois	city (pt.)	2011	2705909
+Chicago 	Illinois	city (pt.)	2012	2715521
+Chicago 	Illinois	city (pt.)	2013	2722236
+Chicago 	Illinois	city (pt.)	2014	2723436
+Chicago 	Illinois	city (pt.)	2015	2720546
+Indianapolis 	Indiana	city (balance)	2010	821632
+Indianapolis 	Indiana	city (balance)	2011	827400
+Indianapolis 	Indiana	city (balance)	2012	834673
+Indianapolis 	Indiana	city (balance)	2013	843532
+Indianapolis 	Indiana	city (balance)	2014	849052
+Indianapolis 	Indiana	city (balance)	2015	853173
+Indianapolis 	Indiana	city	2010	830870
+Indianapolis 	Indiana	city	2011	836692
+Indianapolis 	Indiana	city	2012	844036
+Indianapolis 	Indiana	city	2013	853004
+Indianapolis 	Indiana	city	2014	858593
+Indianapolis 	Indiana	city	2015	862781
+Louisville/Jefferson County metro government 	Kentucky	(balance)	2010	597738
+Louisville/Jefferson County metro government 	Kentucky	(balance)	2011	600883
+Louisville/Jefferson County metro government 	Kentucky	(balance)	2012	604924
+Louisville/Jefferson County metro government 	Kentucky	(balance)	2013	610213
+Louisville/Jefferson County metro government 	Kentucky	(balance)	2014	612821
+Louisville/Jefferson County metro government 	Kentucky	(balance)	2015	615366
+Louisville/Jefferson County metro government	Kentucky		2010	742228
+Louisville/Jefferson County metro government	Kentucky		2011	746174
+Louisville/Jefferson County metro government	Kentucky		2012	751111
+Louisville/Jefferson County metro government	Kentucky		2013	757516
+Louisville/Jefferson County metro government	Kentucky		2014	760621
+Louisville/Jefferson County metro government	Kentucky		2015	763623
+Baltimore 	Maryland	city	2010	621180
+Baltimore 	Maryland	city	2011	620792
+Baltimore 	Maryland	city	2012	622705
+Baltimore 	Maryland	city	2013	623215
+Baltimore 	Maryland	city	2014	623711
+Baltimore 	Maryland	city	2015	621849
+Boston 	Massachusetts	city	2010	620623
+Boston 	Massachusetts	city	2011	630286
+Boston 	Massachusetts	city	2012	642031
+Boston 	Massachusetts	city	2013	651710
+Boston 	Massachusetts	city	2014	660278
+Boston 	Massachusetts	city	2015	667137
+Detroit 	Michigan	city	2010	711049
+Detroit 	Michigan	city	2011	704200
+Detroit 	Michigan	city	2012	698682
+Detroit 	Michigan	city	2013	689950
+Detroit 	Michigan	city	2014	680223
+Detroit 	Michigan	city	2015	677116
+Las Vegas 	Nevada	city	2010	584780
+Las Vegas 	Nevada	city	2011	588370
+Las Vegas 	Nevada	city	2012	596328
+Las Vegas 	Nevada	city	2013	603488
+Las Vegas 	Nevada	city	2014	613527
+Las Vegas 	Nevada	city	2015	623747
+Albuquerque 	New Mexico	city	2010	547092
+Albuquerque 	New Mexico	city	2011	551723
+Albuquerque 	New Mexico	city	2012	554888
+Albuquerque 	New Mexico	city	2013	556880
+Albuquerque 	New Mexico	city	2014	557894
+Albuquerque 	New Mexico	city	2015	559121
+New York 	New York	city	2010	8192426
+New York 	New York	city	2011	8287000
+New York 	New York	city	2012	8365069
+New York 	New York	city	2013	8436047
+New York 	New York	city	2014	8495194
+New York 	New York	city	2015	8550405
+New York 	New York	city (pt.)	2010	1388264
+New York 	New York	city (pt.)	2011	1400221
+New York 	New York	city (pt.)	2012	1415240
+New York 	New York	city (pt.)	2013	1429123
+New York 	New York	city (pt.)	2014	1441757
+New York 	New York	city (pt.)	2015	1455444
+New York 	New York	city (pt.)	2010	2510335
+New York 	New York	city (pt.)	2011	2544744
+New York 	New York	city (pt.)	2012	2573998
+New York 	New York	city (pt.)	2013	2600098
+New York 	New York	city (pt.)	2014	2620720
+New York 	New York	city (pt.)	2015	2636735
+Hempstead 	New York	town	2010	761057
+Hempstead 	New York	town	2011	763940
+Hempstead 	New York	town	2012	766221
+Hempstead 	New York	town	2013	768400
+Hempstead 	New York	town	2014	770131
+Hempstead 	New York	town	2015	771018
+Balance of Hempstead 	New York	town	2012	500514
+Balance of Hempstead 	New York	town	2013	501837
+Balance of Hempstead 	New York	town	2014	503177
+Balance of Hempstead 	New York	town	2015	503839
+New York 	New York	city (pt.)	2010	1588609
+New York 	New York	city (pt.)	2011	1609789
+New York 	New York	city (pt.)	2012	1624885
+New York 	New York	city (pt.)	2013	1631375
+New York 	New York	city (pt.)	2014	1636966
+New York 	New York	city (pt.)	2015	1644518
+New York 	New York	city (pt.)	2010	2235573
+New York 	New York	city (pt.)	2011	2261144
+New York 	New York	city (pt.)	2012	2280072
+New York 	New York	city (pt.)	2013	2302881
+New York 	New York	city (pt.)	2014	2322450
+New York 	New York	city (pt.)	2015	2339150
+Charlotte 	North Carolina	city	2010	738678
+Charlotte 	North Carolina	city	2011	756102
+Charlotte 	North Carolina	city	2012	774707
+Charlotte 	North Carolina	city	2013	793480
+Charlotte 	North Carolina	city	2014	809402
+Charlotte 	North Carolina	city	2015	827097
+Columbus 	Ohio	city	2010	790694
+Columbus 	Ohio	city	2011	799663
+Columbus 	Ohio	city	2012	811251
+Columbus 	Ohio	city	2013	824582
+Columbus 	Ohio	city	2014	837931
+Columbus 	Ohio	city	2015	850106
+Columbus 	Ohio	city (pt.)	2010	773690
+Columbus 	Ohio	city (pt.)	2011	782452
+Columbus 	Ohio	city (pt.)	2012	793908
+Columbus 	Ohio	city (pt.)	2013	807010
+Columbus 	Ohio	city (pt.)	2014	820081
+Columbus 	Ohio	city (pt.)	2015	832022
+Columbus 	Ohio	city	2010	773690
+Columbus 	Ohio	city	2011	782452
+Columbus 	Ohio	city	2012	793908
+Columbus 	Ohio	city	2013	807010
+Columbus 	Ohio	city	2014	820081
+Columbus 	Ohio	city	2015	832022
+Oklahoma City 	Oklahoma	city	2010	582118
+Oklahoma City 	Oklahoma	city	2011	589859
+Oklahoma City 	Oklahoma	city	2012	599977
+Oklahoma City 	Oklahoma	city	2013	611247
+Oklahoma City 	Oklahoma	city	2014	621018
+Oklahoma City 	Oklahoma	city	2015	631346
+Oklahoma City 	Oklahoma	city (pt.)	2014	504063
+Oklahoma City 	Oklahoma	city (pt.)	2015	511724
+Portland 	Oregon	city	2010	585427
+Portland 	Oregon	city	2011	594115
+Portland 	Oregon	city	2012	603366
+Portland 	Oregon	city	2013	610055
+Portland 	Oregon	city	2014	620420
+Portland 	Oregon	city	2015	632309
+Portland 	Oregon	city (pt.)	2010	583125
+Portland 	Oregon	city (pt.)	2011	591788
+Portland 	Oregon	city (pt.)	2012	601009
+Portland 	Oregon	city (pt.)	2013	607669
+Portland 	Oregon	city (pt.)	2014	617993
+Portland 	Oregon	city (pt.)	2015	629821
+Philadelphia 	Pennsylvania	city	2010	1528338
+Philadelphia 	Pennsylvania	city	2011	1539087
+Philadelphia 	Pennsylvania	city	2012	1550584
+Philadelphia 	Pennsylvania	city	2013	1556686
+Philadelphia 	Pennsylvania	city	2014	1561562
+Philadelphia 	Pennsylvania	city	2015	1567442
+Memphis 	Tennessee	city	2010	652479
+Memphis 	Tennessee	city	2011	655816
+Memphis 	Tennessee	city	2012	659537
+Memphis 	Tennessee	city	2013	658310
+Memphis 	Tennessee	city	2014	656482
+Memphis 	Tennessee	city	2015	655770
+Nashville-Davidson metropolitan government 	Tennessee	(balance)	2010	604926
+Nashville-Davidson metropolitan government 	Tennessee	(balance)	2011	612374
+Nashville-Davidson metropolitan government 	Tennessee	(balance)	2012	625488
+Nashville-Davidson metropolitan government 	Tennessee	(balance)	2013	635243
+Nashville-Davidson metropolitan government 	Tennessee	(balance)	2014	644729
+Nashville-Davidson metropolitan government 	Tennessee	(balance)	2015	654610
+Nashville-Davidson metropolitan government	Tennessee		2010	628131
+Nashville-Davidson metropolitan government	Tennessee		2011	635799
+Nashville-Davidson metropolitan government	Tennessee		2012	649318
+Nashville-Davidson metropolitan government	Tennessee		2013	659428
+Nashville-Davidson metropolitan government	Tennessee		2014	669094
+Nashville-Davidson metropolitan government	Tennessee		2015	678889
+Austin 	Texas	city	2010	815974
+Austin 	Texas	city	2011	839168
+Austin 	Texas	city	2012	865184
+Austin 	Texas	city	2013	886406
+Austin 	Texas	city	2014	912713
+Austin 	Texas	city	2015	931830
+Dallas 	Texas	city	2010	1200699
+Dallas 	Texas	city	2011	1219300
+Dallas 	Texas	city	2012	1243131
+Dallas 	Texas	city	2013	1260432
+Dallas 	Texas	city	2014	1280450
+Dallas 	Texas	city	2015	1300092
+El Paso 	Texas	city	2010	651685
+El Paso 	Texas	city	2011	665726
+El Paso 	Texas	city	2012	676401
+El Paso 	Texas	city	2013	677703
+El Paso 	Texas	city	2014	680682
+El Paso 	Texas	city	2015	681124
+Fort Worth 	Texas	city	2010	746547
+Fort Worth 	Texas	city	2011	762504
+Fort Worth 	Texas	city	2012	779375
+Fort Worth 	Texas	city	2013	794682
+Fort Worth 	Texas	city	2014	813425
+Fort Worth 	Texas	city	2015	833319
+Houston 	Texas	city	2010	2114761
+Houston 	Texas	city	2011	2142221
+Houston 	Texas	city	2012	2177376
+Houston 	Texas	city	2013	2216460
+Houston 	Texas	city	2014	2256192
+Houston 	Texas	city	2015	2296224
+San Antonio 	Texas	city	2010	1333953
+San Antonio 	Texas	city	2011	1359461
+San Antonio 	Texas	city	2012	1386305
+San Antonio 	Texas	city	2013	1412979
+San Antonio 	Texas	city	2014	1440309
+San Antonio 	Texas	city	2015	1469845
+San Antonio 	Texas	city (pt.)	2010	1333927
+San Antonio 	Texas	city (pt.)	2011	1359435
+San Antonio 	Texas	city (pt.)	2012	1386279
+San Antonio 	Texas	city (pt.)	2013	1412952
+San Antonio 	Texas	city (pt.)	2014	1440282
+San Antonio 	Texas	city (pt.)	2015	1469818
+Dallas 	Texas	city (pt.)	2010	1126888
+Dallas 	Texas	city (pt.)	2011	1143891
+Dallas 	Texas	city (pt.)	2012	1166318
+Dallas 	Texas	city (pt.)	2013	1182626
+Dallas 	Texas	city (pt.)	2014	1200927
+Dallas 	Texas	city (pt.)	2015	1219339
+Houston 	Texas	city (pt.)	2010	2070829
+Houston 	Texas	city (pt.)	2011	2097868
+Houston 	Texas	city (pt.)	2012	2132453
+Houston 	Texas	city (pt.)	2013	2170519
+Houston 	Texas	city (pt.)	2014	2209365
+Houston 	Texas	city (pt.)	2015	2248403
+Fort Worth 	Texas	city (pt.)	2010	738684
+Fort Worth 	Texas	city (pt.)	2011	754453
+Fort Worth 	Texas	city (pt.)	2012	771154
+Fort Worth 	Texas	city (pt.)	2013	786323
+Fort Worth 	Texas	city (pt.)	2014	804858
+Fort Worth 	Texas	city (pt.)	2015	824545
+Austin 	Texas	city (pt.)	2010	763232
+Austin 	Texas	city (pt.)	2011	784820
+Austin 	Texas	city (pt.)	2012	809391
+Austin 	Texas	city (pt.)	2013	828729
+Austin 	Texas	city (pt.)	2014	852433
+Austin 	Texas	city (pt.)	2015	869587
+Seattle 	Washington	city	2010	610383
+Seattle 	Washington	city	2011	622354
+Seattle 	Washington	city	2012	635521
+Seattle 	Washington	city	2013	653713
+Seattle 	Washington	city	2014	669112
+Seattle 	Washington	city	2015	684451
+Milwaukee 	Wisconsin	city	2010	595120
+Milwaukee 	Wisconsin	city	2011	597570
+Milwaukee 	Wisconsin	city	2012	599114
+Milwaukee 	Wisconsin	city	2013	600071
+Milwaukee 	Wisconsin	city	2014	600598
+Milwaukee 	Wisconsin	city	2015	600155
+Milwaukee 	Wisconsin	city (pt.)	2010	595120
+Milwaukee 	Wisconsin	city (pt.)	2011	597570
+Milwaukee 	Wisconsin	city (pt.)	2012	599114
+Milwaukee 	Wisconsin	city (pt.)	2013	600071
+Milwaukee 	Wisconsin	city (pt.)	2014	600598
+Milwaukee 	Wisconsin	city (pt.)	2015	600155
